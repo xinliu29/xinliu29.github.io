@@ -13,10 +13,16 @@ I am very fortunate to be co-advised by [Prof. Deng-Ping Fan](https://dengpingfa
 
 My research interests primarily revolve around computer vision and machine learning, with a particular focus on camouflaged vision perception, mutimodal learning, and video understanding.
 
-<font face="Calibri">Recent News</font>
-======
-* <font color=red>**[09/2024]**</font> Two papers for camouflaged image generation and video emotion analysis are accepted by [**CVPR 2024**](https://cvpr.thecvf.com/Conferences/2024)
-* <font color=Black>**[09/2022]**</font> I start my Master studying at **Nankai University (NKU)** under the supervision of [**Prof. Jufeng Yang**](https://cv.nankai.edu.cn/)
 
-<font face="Calibri">Publications</font>
+
+Recent News
 ======
+<ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[02/2024]</font> Two papers for camouflaged image generation and video emotion analysis are accepted by <font style="color:rgb(219,122,27); font-weight: bold;">CVPR 2024</font>.</li>
+  <li><font style="color:black; font-weight: bold;">[09/2022]</font> I start my Master studying at <font style="font-weight: bold;">Nankai University (NKU)</font> under the supervision of <font style="color:rgb(97,160,191); font-weight: bold;"><a href="https://cv.nankai.edu.cn/">Prof. Jufeng Yang</a></font>.</li>        
+</ul>
+
+Publications
+======
+
+          <!-- ================================================================= -->      
