@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master’s student in the [Colledge of Computer Science](https://cc.nankai.edu.cn/) at [Nankai University](https://www.nankai.edu.cn/), supervised by [Prof. Jufeng Yang](https://cv.nankai.edu.cn/) in Computer Vision Lab. Before that, I received my bachelor’s degree in Computer Science and Technology from Sichuan University in 2022.
+I am currently a second-year master’s student in the [Colledge of Computer Science](https://cc.nankai.edu.cn/) at [Nankai University](https://www.nankai.edu.cn/), supervised by [Prof. Jufeng Yang](https://cv.nankai.edu.cn/) in Computer Vision Lab. Before that, I received my bachelor’s degree in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn/) in 2022.
 
 I am very fortunate to be co-advised by [Prof. Deng-Ping Fan](https://dengpingfan.github.io/) of Nankai University and [Peng Xu](https://www.pengxu.net/) of Tsinghua University.
 
