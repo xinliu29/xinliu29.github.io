@@ -26,7 +26,7 @@ Recent News
 Publications
 ======
 
-<p>More publications can be found in <a href="">Google Scholar</a>.</p>
+<!-- <p>More publications can be found in <a href="">Google Scholar</a>.</p> -->
 
 <!-- <p>† indicates equal contribution.</p> -->
 
