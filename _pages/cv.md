@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+# General Information
+
+* **Full Name**	       Pancheng Zhao
+* **Date of Birth**      10th October 1999
+* **Languages**          Chinese, English
+* **Phone**                  19150125670
+* **Email**                    pc.zhao99@gmail.com, zhaopancheng@mail.nankai.edu.cn
+* **Location**              Tianjin, China
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **M.S.** in Computer Science and Technology, Nankai University, Tianjin, China, 2022.
+  * Advised by Prof. Jufeng Yang.
+  * Co-Advised by Prof. Deng-Ping Fan and Peng Xu.
+  * Research Focus.
+    * Camouflaged Vision Perception.
+    * Affective Computing.
+  * Academic Interests.
+    * Camouflaged Object Detection.
+    * Diffusion Models.
+    * Self-Supervised Learning.
+    * Multimodal Learning.
+* **B.S.** in Computer Science and Technology, Sichuan University, Sichuan, China, 2018.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**<br><u>Pancheng Zhao</u>, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang<br>
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Seattle, USA, June 17-21, 2024<br>
+  [PDF\] [中译版] [Code] [Official Version]
+- **MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation**<br>Zhicheng Zhang, <u>Pancheng Zhao</u>, Eunil Park, Jufeng Yang<br>
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, Seattle, USA, June 17-21, 2024<br>
+  [PDF\] [中译版] [Code] [Official Version]
+
