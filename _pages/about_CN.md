@@ -44,7 +44,7 @@ redirect_from:
     </div>
   </div>
   <div class='paper-box-text'>
-		 <p><a href="">LAKE-RED: 基于隐空间背景知识检索和增强扩散的伪装图像生成</a></p>
+		 <p><a href="/publication/LAKERED_CVPR24">LAKE-RED: 基于隐空间背景知识检索和增强扩散的伪装图像生成</a></p>
 
 
     <p><strong>赵攀诚</strong>, 徐 鹏, 秦鹏达, 范登平, 张知诚, 贾国力, 周伯文, 杨巨峰</p>
@@ -67,7 +67,7 @@ redirect_from:
     </div>
   </div>
   <div class='paper-box-text'>
-		 <p><a href="">MART: 基于掩码时序分布蒸馏的情感表示学习</a></p>
+		 <p><a href="/publication/MART_CVPR24">MART: 基于掩码时序分布蒸馏的情感表示学习</a></p>
 <!-- <p>Zhicheng Zhang<sup>†</sup>, <strong>Pancheng Zhao<sup>†</sup></strong>, Eunil Park, Jufeng Yang</p> -->
 <p>张知诚, <strong>赵攀诚</strong>, Eunil Park, 杨巨峰</p>
 

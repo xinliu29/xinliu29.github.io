@@ -40,7 +40,7 @@ Publications
     </div>
   </div>
   <div class='paper-box-text'>
-		 <p><a href="">LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion</a></p>
+		 <p><a href="/publication/LAKERED_CVPR24">LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion</a></p>
 
 
     <p><strong>Pancheng Zhao</strong>, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang</p>
@@ -63,7 +63,7 @@ Publications
     </div>
   </div>
   <div class='paper-box-text'>
-		 <p><a href="">MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation</a></p>
+		 <p><a href="/publication/MART_CVPR24">MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation</a></p>
 
 <!-- <p>Zhicheng Zhang<sup>†</sup>, <strong>Pancheng Zhao<sup>†</sup></strong>, Eunil Park, Jufeng Yang</p> -->
 <p>Zhicheng Zhang, <strong>Pancheng Zhao</strong>, Eunil Park, Jufeng Yang</p>
