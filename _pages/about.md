@@ -36,7 +36,7 @@ Publications
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2024</div>
-      <img src='images/lakered.jpg' width="100%">
+      <img src='papers/LAKERED/images/lakered_logo.jpg' width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -47,7 +47,8 @@ Publications
     
     <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, June 17-21, 2024.</p>
     
-    <a href=""><img src='https://img.shields.io/badge/PDF-LAKE RED-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-LAKE RED-blue' alt='Project Page'></a>	<a href=''><img src='https://img.shields.io/badge/Chinese Version-LAKE RED-yellow' alt='Project Page'></a>
+    <a href="papers/LAKERED/Zhao_LAKE-RED Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion_CVPR_2024_paper.pdf"><img src='https://img.shields.io/badge/PDF-LAKE RED-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-LAKE RED-blue' alt='Project Page'></a>	
+    <!-- <a href=''><img src='https://img.shields.io/badge/Chinese Version-LAKE RED-yellow' alt='Project Page'></a> -->
   </div>
 </div>
 
@@ -59,7 +60,7 @@ Publications
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2024</div>
-      <img src='images/mart.jpg' width="100%">
+      <img src='papers/MART/images/mart_logo.jpg' width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -70,7 +71,8 @@ Publications
 
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, June 17-21, 2024.</p>
 
-<a href=""><img src='https://img.shields.io/badge/PDF-MART-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-MART-blue' alt='Project Page'></a>	<a href=''><img src='https://img.shields.io/badge/Chinese Version-MART-yellow' alt='Project Page'></a>	
+<a href="papers/MART/Zhang_MART Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation_CVPR_2024_paper.pdf"><img src='https://img.shields.io/badge/PDF-MART-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-MART-blue' alt='Official Version'></a> <a href='https://zzcheng.top/MART'><img src='https://img.shields.io/badge/Project Page-MART-yellow' alt='Project Page'></a>	
+<!-- <a href=''><img src='https://img.shields.io/badge/Chinese Version-MART-yellow' alt='Project Page'></a>	 -->
 
   </div>
 </div>
