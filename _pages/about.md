@@ -48,7 +48,7 @@ Publications
     <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, June 17-21, 2024.</p>
     
     <a href="papers/LAKERED/Zhao_LAKE-RED Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion_CVPR_2024_paper.pdf"><img src='https://img.shields.io/badge/PDF-LAKE RED-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-LAKE RED-blue' alt='Project Page'></a>	
-    <!-- <a href=''><img src='https://img.shields.io/badge/Chinese Version-LAKE RED-yellow' alt='Project Page'></a> -->
+    <a href='https://github.com/PanchengZhao/LAKE-RED'><img src='https://img.shields.io/badge/Chinese Version-LAKE RED-yellow' alt='Project Page'></a>
   </div>
 </div>
 
