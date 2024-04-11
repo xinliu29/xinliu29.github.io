@@ -51,8 +51,8 @@ redirect_from:
     
     <p>IEEE国际计算机视觉与模式识别大会（CVPR）, 西雅图, 美国, 2024年6月17-21日。</p>
     
-    <a href="papers/LAKERED/Zhao_LAKE-RED Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion_CVPR_2024_paper.pdf"><img src='https://img.shields.io/badge/PDF-LAKE RED-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-LAKE RED-blue' alt='Project Page'></a>	
-    <!-- <a href=''><img src='https://img.shields.io/badge/Chinese Version-LAKE RED-yellow' alt='Project Page'></a> -->
+    <a href="https://arxiv.org/abs/2404.00292"><img src='https://img.shields.io/badge/PDF-LAKE RED-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-LAKE RED-blue' alt='Project Page'></a>	
+    <a href='https://github.com/PanchengZhao/LAKE-RED'><img src='https://img.shields.io/badge/Project Page-LAKE RED-yellow' alt='Project Page'></a>
   </div>
 </div>
 
@@ -79,3 +79,11 @@ redirect_from:
   </div>
 </div>
 
+<br>
+
+访问
+======
+
+<div class='global_map'>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1vZ7vYMjnqPq6rrJZomBNI5_1Bglli8x-Sk1eaOuEU8"></script>
+</div>

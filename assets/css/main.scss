@@ -111,3 +111,16 @@ h1:before,
     background-color: #2893bd;
     font-size: .8em;
 }
+
+.global_map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 0px #efefef solid;
+    padding: 2em 0 1em 0;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}

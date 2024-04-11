@@ -14,6 +14,7 @@ I am very fortunate to be co-advised by [Prof. Deng-Ping Fan](https://dengpingfa
 My research interests primarily revolve around computer vision and machine learning, with a particular focus on camouflaged vision perception, mutimodal learning, and video understanding.
 
 
+<br>
 
 Recent News
 ======
@@ -22,6 +23,8 @@ Recent News
   <li><font style="color:black; font-weight: bold;">[02/2024]</font> Two papers for camouflaged image generation and video emotion analysis are accepted by <font style="color:rgb(219,122,27); font-weight: bold;">CVPR 2024</font>.</li>
   <li><font style="color:black; font-weight: bold;">[09/2022]</font> I start my Master studying at <font style="font-weight: bold;">Nankai University (NKU)</font> under the supervision of <font style="color:rgb(97,160,191); font-weight: bold;"><a href="https://cv.nankai.edu.cn/">Prof. Jufeng Yang</a></font>.</li>        
 </ul>
+
+<br>
 
 Publications
 ======
@@ -47,8 +50,8 @@ Publications
     
     <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, June 17-21, 2024.</p>
     
-    <a href="papers/LAKERED/Zhao_LAKE-RED Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion_CVPR_2024_paper.pdf"><img src='https://img.shields.io/badge/PDF-LAKE RED-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-LAKE RED-blue' alt='Project Page'></a>	
-    <a href='https://github.com/PanchengZhao/LAKE-RED'><img src='https://img.shields.io/badge/Chinese Version-LAKE RED-yellow' alt='Project Page'></a>
+    <a href="https://arxiv.org/abs/2404.00292"><img src='https://img.shields.io/badge/PDF-LAKE RED-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-LAKE RED-blue' alt='Project Page'></a>	
+    <a href='https://github.com/PanchengZhao/LAKE-RED'><img src='https://img.shields.io/badge/Project Page-LAKE RED-yellow' alt='Project Page'></a>
   </div>
 </div>
 
@@ -77,3 +80,12 @@ Publications
   </div>
 </div>
 
+
+<br>
+
+Visitors
+======
+
+<div class='global_map'>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1vZ7vYMjnqPq6rrJZomBNI5_1Bglli8x-Sk1eaOuEU8"></script>
+</div>
