@@ -20,6 +20,9 @@ redirect_from:
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[06/2024]</font> 我将前往 <font style="color:rgb(219,122,27); font-weight: bold;">阿里巴巴 (杭州) </font> 进行暑期实习。</li>
+  <li><font style="color:black; font-weight: bold;">[06/2024]</font> 我将前往美国西雅图参加 <font style="color:rgb(219,122,27); font-weight: bold;">CVPR 2024</font>.</li>
+  <li><font style="color:black; font-weight: bold;">[05/2024]</font> 我将参加 <font style="color:rgb(219,122,27); font-weight: bold;">VALSE 2024 (Chongqing) </font> 和 <font style="color:rgb(219,122,27); font-weight: bold;">CCIG 2024 (Xi‘an) </font> 并且在会议现场做Posetr分享，欢迎大家与我现场交流。 </li>
   <li><font style="color:black; font-weight: bold;">[02/2024]</font> 两篇分别关于伪装图像生成和视频情感分析的论文被<font style="color:rgb(219,122,27); font-weight: bold;">IEEE国际计算机视觉与模式识别大会（CVPR 2024）</font>接收。</li>
   <li><font style="color:black; font-weight: bold;">[09/2022]</font> 我进入<font style="font-weight: bold;">南开大学（NKU）</font>计算机学院开始硕士阶段的学习，师从<font style="color:rgb(97,160,191); font-weight: bold;"><a href="https://cv.nankai.edu.cn/">杨巨峰教授</a></font>。</li>       
 </ul>
