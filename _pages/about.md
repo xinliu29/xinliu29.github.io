@@ -89,4 +89,5 @@ Visitors
 ======
 
 <div class='global_map'>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1vZ7vYMjnqPq6rrJZomBNI5_1Bglli8x-Sk1eaOuEU8"></script>
 </div>
