@@ -88,5 +88,7 @@ redirect_from:
 ======
 
 <div class='global_map'>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1vZ7vYMjnqPq6rrJZomBNI5_1Bglli8x-Sk1eaOuEU8"></script>
+<!--
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1vZ7vYMjnqPq6rrJZomBNI5_1Bglli8x-Sk1eaOuEU8"></script>-->
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=1vZ7vYMjnqPq6rrJZomBNI5_1Bglli8x-Sk1eaOuEU8&co=61a0bf&cmo=3acc3a&cmn=db7a1b&ct=ffffff"></script>
 </div>
