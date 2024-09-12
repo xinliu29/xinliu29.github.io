@@ -47,11 +47,8 @@ Publications
     
     <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.</p>
     
-    <a href="papers/NCMNet/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf"><img src='https://img.shields.io/badge/PDF-MART-red' alt='Paper PDF'></a>
-    
-    <a href=''><img src='https://img.shields.io/badge/Official Version-MART-blue' alt='Official Version'></a>
-    <a href='https://github.com/xinliu29/NCMNet'><img src='https://img.shields.io/badge/Project Page-MART-yellow' alt='Project Page'></a>	
-<!-- <a href=''><img src='https://img.shields.io/badge/Chinese Version-MART-yellow' alt='Project Page'></a>
+    <a href="papers/NCMNet/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf"><alt='Paper PDF'></a>
+    <a href='https://github.com/xinliu29/NCMNet'>< alt='Project Page'></a>	
   </div>
 </div>
 
