@@ -36,12 +36,11 @@ Publications
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2023</div>
-      <img src='papers/NCMNet/images/pipeline.png' width="100%">
+      <img src='papers/NCMNet/images/abstract.png' width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
 		 <p><a href="/publication/NCMNet_CVPR23">Progressive Neighbor Consistency Mining for Correspondence Pruning</a></p>
-
 
     <p><strong>Xin Liu</strong>, Jufeng Yang</p>
     
