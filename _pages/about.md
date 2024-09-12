@@ -17,7 +17,7 @@ Recent News
 <ul style="padding-left: 40px; padding-bottom: 0px;">
   <li><font style="color:black; font-weight: bold;">[09/2024]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet+ </font> is accepted by <font style="color:rgb(219,122,27); font-weight: bold;">TPAMI 2024</font>.</li>
   <li><font style="color:black; font-weight: bold;">[08/2024]</font> <font style="color:rgb(219,122,27); font-weight: bold;">Tnet++ </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">TPAMI 2024</font>.</li>
-  <li><font style="color:black; font-weight: bold;">[02/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">CVPR 2023</font>.</li>
+  <li><font style="color:black; font-weight: bold;">[02/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">[NCMNet](https://github.com/xinliu29/NCMNet) </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">CVPR 2023</font>.</li>
   <li><font style="color:black; font-weight: bold;">[01/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">PGFNet </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">TIP 2023</font>.</li>
 </ul>
 <br>
@@ -36,19 +36,22 @@ Publications
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2023</div>
-      <img src='papers/LAKERED/images/lakered_logo.jpg' width="100%">
+      <img src='papers/NCMNet/images/pipeline.png' width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
-		 <p><a href="/publication/LAKERED_CVPR24">LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion</a></p>
+		 <p><a href="/publication/NCMNet_CVPR23">Progressive Neighbor Consistency Mining for Correspondence Pruning</a></p>
 
 
-    <p><strong>Pancheng Zhao</strong>, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang</p>
+    <p><strong>Xin Liu</strong>, Jufeng Yang</p>
     
-    <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, June 17-21, 2024.</p>
+    <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.</p>
     
-    <a href="https://arxiv.org/abs/2404.00292"><img src='https://img.shields.io/badge/PDF-LAKE RED-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-LAKE RED-blue' alt='Project Page'></a>	
-    <a href='https://github.com/PanchengZhao/LAKE-RED'><img src='https://img.shields.io/badge/Project Page-LAKE RED-yellow' alt='Project Page'></a>
+    <a href="papers/NCMNet/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf"><img src='https://img.shields.io/badge/PDF-MART-red' alt='Paper PDF'></a>
+    
+    <a href=''><img src='https://img.shields.io/badge/Official Version-MART-blue' alt='Official Version'></a>
+    <a href='https://github.com/xinliu29/NCMNet'><img src='https://img.shields.io/badge/Project Page-MART-yellow' alt='Project Page'></a>	
+<!-- <a href=''><img src='https://img.shields.io/badge/Chinese Version-MART-yellow' alt='Project Page'></a>
   </div>
 </div>
 
