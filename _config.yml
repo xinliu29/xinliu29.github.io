@@ -21,7 +21,7 @@ repository               : "xinliu29/xinliu29.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xin Liu (刘鑫)"
   #pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Computer Vision"
