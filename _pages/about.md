@@ -35,8 +35,8 @@ Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      %<div class="badge">CVPR 2023</div>
-      <img src='papers/NCMNet/images/abstract.png' width="100%">
+      #<div class="badge">CVPR 2023</div>
+      <img src='papers/NCMNet/images/abstract.png' width="80%" height="80px">
     </div>
   </div>
   <div class='paper-box-text'>
