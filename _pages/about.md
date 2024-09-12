@@ -17,7 +17,7 @@ Recent News
 <ul style="padding-left: 40px; padding-bottom: 0px;">
   <li><font style="color:black; font-weight: bold;">[09/2024]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet+ </font> is accepted by <font style="color:rgb(219,122,27); font-weight: bold;">TPAMI 2024</font>.</li>
   <li><font style="color:black; font-weight: bold;">[08/2024]</font> <font style="color:rgb(219,122,27); font-weight: bold;">Tnet++ </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">TPAMI 2024</font>.</li>
-  <li><font style="color:black; font-weight: bold;">[02/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">[NCMNet](https://github.com/xinliu29/NCMNet) </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">CVPR 2023</font>.</li>
+  <li><font style="color:black; font-weight: bold;">[02/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">CVPR 2023</font>.</li>
   <li><font style="color:black; font-weight: bold;">[01/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">PGFNet </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">TIP 2023</font>.</li>
 </ul>
 <br>
@@ -47,8 +47,9 @@ Publications
     
     <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.</p>
     
-    <a href="papers/NCMNet/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf"><alt='Paper PDF'></a>
-    <a href='https://github.com/xinliu29/NCMNet'>< alt='Project Page'></a>	
+    <a href="papers/NCMNet/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf">Paper PDF</a>
+    <a href='https://github.com/xinliu29/NCMNet'>Project Page></a>	
   </div>
 </div>
 
+<br>
