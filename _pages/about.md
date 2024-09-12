@@ -11,11 +11,13 @@ I am currently a third-year PhD student in the [Colledge of Computer Science](ht
 
 My research interests include computer vision and image matching.
 
-
 Recent News
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
-  <li><font style="color:black; font-weight: bold;">[09/2024]</font> <font style="color:rgb(255,0,0); font-weight: bold;">NCMNet+ </font>+ is accepted by <font style="color:rgb(219,122,27); font-weight: bold;">TPAMI 2024</font>.
+  <li><font style="color:black; font-weight: bold;">[09/2024]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet+ </font>+ is accepted by <font style="color:rgb(219,122,27); font-weight: bold;">TPAMI 2024</font>.
+  <li><font style="color:black; font-weight: bold;">[08/2024]</font> <font style="color:rgb(219,122,27); font-weight: bold;">Tnet++ </font>+ is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">TPAMI 2024</font>.
+  <li><font style="color:black; font-weight: bold;">[02/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet </font>+ is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">CVPR 2023</font>.
+  <li><font style="color:black; font-weight: bold;">[01/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet </font>+ is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">TIP 2023</font>.
 </ul>
 <br>
