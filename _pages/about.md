@@ -54,17 +54,17 @@ Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='papers/Tnet++/images/abstract.png' width="80%" height="50%">
+      <img src='papers/TNet++/images/abstract.png' width="80%" height="50%">
     </div>
   </div>
   <div class='paper-box-text'>
-		 <p><a href="/publication/Tnet++_TPAMI24">T-Net++: Effective Permutation-Equivariance Network for Two-View Correspondence Pruning</a></p>
+		 <p><a href="/publication/TNet++_TPAMI24">T-Net++: Effective Permutation-Equivariance Network for Two-View Correspondence Pruning</a></p>
 
     <p>Guobao Xiao, <strong>Xin Liu</strong>, Zhen Zhong, Xiaoqin Zhang, <a href="http://eis.whu.edu.cn/ryDetail.shtml?rsh=00030884" target="_blank">Jiayi Ma</a>, <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank">Haibin Ling</a></p>
     
     <p>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</p>
     
-    <a href="papers/Tnet++/T-Net_Effective_Permutation-Equivariance_Network_for_Two-View_Correspondence_Pruning.pdf"><img src='https://img.shields.io/badge/PDF-TNet++-red' alt='Paper PDF'></a>
+    <a href="papers/TNet++/T-Net_Effective_Permutation-Equivariance_Network_for_Two-View_Correspondence_Pruning.pdf"><img src='https://img.shields.io/badge/PDF-TNet++-red' alt='Paper PDF'></a>
     <a href='https://github.com/guobaoxiao/T-Net'><img src='https://img.shields.io/badge/Project Page-Tnet++-yellow' alt='Project Page'></a>	
   </div>
 </div>
