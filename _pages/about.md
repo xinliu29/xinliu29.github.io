@@ -81,7 +81,7 @@ Publications
   <div class='paper-box-text'>
 		 <p><a href="/publication/TNet++_TPAMI24">T-Net++: Effective Permutation-Equivariance Network for Two-View Correspondence Pruning</a></p>
 
-    <p>Guobao Xiao, <strong>Xin Liu</strong>, Zhen Zhong, Xiaoqin Zhang, <a href="http://eis.whu.edu.cn/ryDetail.shtml?rsh=00030884" target="_blank">Jiayi Ma</a>, <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank">Haibin Ling</a></p>
+    <p><a href="https://guobaoxiao.github.io/" target="_blank">Guobao Xiao</a>, <strong>Xin Liu</strong>, Zhen Zhong, Xiaoqin Zhang, <a href="http://eis.whu.edu.cn/ryDetail.shtml?rsh=00030884" target="_blank">Jiayi Ma</a>, <a href="https://www3.cs.stonybrook.edu/~hling/" target="_blank">Haibin Ling</a></p>
     
     <p>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</p>
     
@@ -117,7 +117,9 @@ Publications
   <div class='paper-box-text'>
 		 <p><a href="/publication/PGFNet_TIP23">PGFNet: Preference-Guided Filtering Network for Two-View Correspondence Learning</a></p>
 
-    <p><strong>Xin Liu</strong>, Guobao Xiao, <a href="https://xxxy.fafu.edu.cn/27/9a/c2743a272282/page.htm " target="_blank">Riqing Chen</a>, <a href="http://eis.whu.edu.cn/ryDetail.shtml?rsh=00030884" target="_blank">Jiayi Ma</a></p>
+
+
+    <p><strong>Xin Liu</strong>, <a href="https://guobaoxiao.github.io/" target="_blank">Guobao Xiao</a>, <a href="https://xxxy.fafu.edu.cn/27/9a/c2743a272282/page.htm " target="_blank">Riqing Chen</a>, <a href="http://eis.whu.edu.cn/ryDetail.shtml?rsh=00030884" target="_blank">Jiayi Ma</a></p>
     
     <p>IEEE Transactions on Image Processing (TIP), 2023.</p>
     
