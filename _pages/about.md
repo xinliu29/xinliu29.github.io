@@ -42,14 +42,14 @@ Publications
   <div class='paper-box-text'>
 		 <p><a href="/publication/DPBS_CVPR25">No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition</a></p>
 
-    <p> <a href="https://qinrong-nku.github.io/" target="_blank">Rong Qin</a>, <strong>Xin Liu</strong>, Xingyu Liu, Jiaxuan Liu, Jinglei Shi,<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>, <a href="https://cv.nankai.edu.cn/" target="_blank">Jufeng Yang</a> </p>
+    <p> <a href="https://qinrong-nku.github.io/" target="_blank">Rong Qin</a>, <strong>Xin Liu</strong>, Xingyu Liu, Jiaxuan Liu, Jinglei Shi, <a href="http://www.linliang.net/" target="_blank">Liang Lin</a>, <a href="https://cv.nankai.edu.cn/" target="_blank">Jufeng Yang</a> </p>
     
-https://qinrong-nku.github.io/
 
     <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</p>
-    
-    <a href="papers/NCMNet+/TPAMI_liuxin_NCMNet.pdf"><img src='https://img.shields.io/badge/PDF-NCMNet+-red' alt='Paper PDF'></a>
+  
     <a href='https://github.com/xinliu29/NCMNet'><img src='https://img.shields.io/badge/Project Page-DBPS+-yellow' alt='Project Page'></a>	
+
+
   </div>
 </div>
 
