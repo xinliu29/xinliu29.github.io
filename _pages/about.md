@@ -48,9 +48,8 @@ https://qinrong-nku.github.io/
 
     <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</p>
     
-    <!-- <a href="papers/NCMNet+/TPAMI_liuxin_NCMNet.pdf"><img src='https://img.shields.io/badge/PDF-NCMNet+-red' alt='Paper PDF'></a>
-    <a href="papers/NCMNet+/TPAMI_NCMNet_CV.pdf"><img src='https://img.shields.io/badge/中译版-NCMNet+-red' alt='中译版'></a>
-    <a href='https://github.com/xinliu29/NCMNet'><img src='https://img.shields.io/badge/Project Page-NCMNet+-yellow' alt='Project Page'></a>	 -->
+    <a href="papers/NCMNet+/TPAMI_liuxin_NCMNet.pdf"><img src='https://img.shields.io/badge/PDF-NCMNet+-red' alt='Paper PDF'></a>
+    <a href='https://github.com/xinliu29/NCMNet'><img src='https://img.shields.io/badge/Project Page-DBPS+-yellow' alt='Project Page'></a>	
   </div>
 </div>
 
