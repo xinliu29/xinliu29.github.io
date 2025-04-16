@@ -128,10 +128,10 @@ Publications
 
 <br>
 
-Visitors
+<!-- Visitors
 =====
 
 <div class='global map'>
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=B2obhfnVArPBr9c7CKqzPm-AdeTueadrlSGhQx8fzro"></script>
-</div>
+</div> -->
