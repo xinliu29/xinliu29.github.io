@@ -36,13 +36,34 @@ Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='papers/DBPS/images/abstract.png' width="80%" height="50%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+		 <p><a href="/publication/DPBS_CVPR25">No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition</a></p>
+
+    <p> <a href="https://qinrong-nku.github.io/" target="_blank">Rong Qin</a>, <strong>Xin Liu</strong>, Xingyu Liu, Jiaxuan Liu, Jinglei Shi,<a href="http://www.linliang.net/" target="_blank">Liang Lin</a>, <a href="https://cv.nankai.edu.cn/" target="_blank">Jufeng Yang</a> </p>
+    
+https://qinrong-nku.github.io/
+
+    <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</p>
+    
+    <!-- <a href="papers/NCMNet+/TPAMI_liuxin_NCMNet.pdf"><img src='https://img.shields.io/badge/PDF-NCMNet+-red' alt='Paper PDF'></a>
+    <a href="papers/NCMNet+/TPAMI_NCMNet_CV.pdf"><img src='https://img.shields.io/badge/中译版-NCMNet+-red' alt='中译版'></a>
+    <a href='https://github.com/xinliu29/NCMNet'><img src='https://img.shields.io/badge/Project Page-NCMNet+-yellow' alt='Project Page'></a>	 -->
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='papers/NCMNet+/images/abstract.png' width="80%" height="50%">
     </div>
   </div>
   <div class='paper-box-text'>
 		 <p><a href="/publication/NCMNet+_TPAMI24">NCMNet: Neighbor Consistency Mining Network for Two-View Correspondence Pruning</a></p>
 
-    <p><strong>Xin Liu</strong>, Rong Qin, <a href="https://thinklab.sjtu.edu.cn/" target="_blank">Junchi Yan</a>, <a href="https://cv.nankai.edu.cn/" target="_blank">Jufeng Yang</a> </p>
+    <p><strong>Xin Liu</strong>, <a href="https://qinrong-nku.github.io/" target="_blank">Rong Qin</a>, <a href="https://thinklab.sjtu.edu.cn/" target="_blank">Junchi Yan</a>, <a href="https://cv.nankai.edu.cn/" target="_blank">Jufeng Yang</a> </p>
     
     <p>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</p>
     
@@ -111,6 +132,6 @@ Publications
 <div class='global map'>
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=B2obhfnVArPBr9c7CKqzPm-AdeTueadrlSGhQx8fzro"></script>
-
+</div>
 
 <br>
