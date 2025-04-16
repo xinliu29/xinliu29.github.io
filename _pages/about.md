@@ -15,6 +15,7 @@ Recent News
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[02/2025]</font> <font style="color:rgb(219,122,27); font-weight: bold;">DBPS </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">CVPR 2025</font>.</li>
   <li><font style="color:black; font-weight: bold;">[09/2024]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet+ </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">TPAMI 2024</font>.</li>
   <li><font style="color:black; font-weight: bold;">[08/2024]</font> <font style="color:rgb(219,122,27); font-weight: bold;">TNet++ </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">TPAMI 2024</font>.</li>
   <li><font style="color:black; font-weight: bold;">[02/2023]</font> <font style="color:rgb(219,122,27); font-weight: bold;">NCMNet </font> is accepted by <font style="color:rgb(255,0,0); font-weight: bold;">CVPR 2023</font>.</li>
@@ -105,6 +106,9 @@ Publications
   </div>
 </div>
 
+=====
+
+<div class='global map'>
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=B2obhfnVArPBr9c7CKqzPm-AdeTueadrlSGhQx8fzro"></script>
 
