@@ -47,7 +47,7 @@ Publications
 
     <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</p>
   
-    <a href='https://github.com/xinliu29/NCMNet'><img src='https://img.shields.io/badge/Project Page-DBPS+-yellow' alt='Project Page'></a>	
+    <a href='https://github.com/Qinrong-NKU/DBPS'><img src='https://img.shields.io/badge/Project Page-DBPS+-yellow' alt='Project Page'></a>	
 
 
   </div>
